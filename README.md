@@ -1,1 +1,2 @@
 # Calculator-
+A Calculator is a tool that performs mathematical operations. It allows users to input numbers and select operations like addition, subtraction, multiplication, and division. Some calculators also handle advanced functions like square roots, percentages, and trigonometry. The result is displayed instantly after the operation is performed. It is used for quick and accurate calculations.
